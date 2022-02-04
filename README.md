@@ -1,11 +1,7 @@
 
-# 0成本搭建一个3d网站实例
+# 复现B站Up搭建一个3d网站实例
 
-## `拿源码前b站视频三连了吗`(创作不易，求支持，呜呜呜)
-
-## 后期会一直坚持出好的内容的，也欢迎大家star，学生党也可以加我QQ: 3301833942一起交流学习都可以鸭
-
-我自己的3d网站也是根据国外大佬改的，上个视频可能开头没说明，产生一些误会，这里先放大佬源码地址：[https://github.com/0xFloyd/Portfolio_2020](https://github.com/0xFloyd/Portfolio_2020)
+up自己的3d网站也是根据国外大佬改的源码地址：[https://github.com/0xFloyd/Portfolio_2020](https://github.com/0xFloyd/Portfolio_2020)
 
 我自己的源码地址(基于上面有些添加中文注释和一些改变)：[https://github.com/AirHua-byte/AirHua-byte.github.io ](https://github.com/AirHua-byte/AirHua-byte.github.io )
 
