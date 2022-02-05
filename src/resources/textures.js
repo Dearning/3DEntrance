@@ -1,44 +1,44 @@
 let billboardTextures = {};
 // 第一块展板图片地址
-billboardTextures.blogTexture = '../src/jsm/TODO.png';
+billboardTextures.blogTexture = './jsm/TODO.png';
 // 第二块展板图片地址
 billboardTextures.musicTexture =
-  '../src/jsm/TODO.png';
+  './jsm/TODO.png';
 // 第三块展板图片地址
 billboardTextures.fundTexture =
-  '../src/jsm/TODO.png';
+  './jsm/TODO.png';
 
 let boxTexture = {};
 // 链接的图标地址
-boxTexture.Github = '../src/jsm/githubLogo.png';
-boxTexture.BiliBili = '../src/jsm/BiliBili.png';
-boxTexture.QQ = '../src/jsm/qq.png';
-boxTexture.mail = '../src/jsm/envelope.png';
-boxTexture.reactIcon = '../src/jsm/react.png';
-boxTexture.allSkills = '../src/jsm/allSkills.png';
-boxTexture.lensFlareMain = '../src/jsm/lensflare0.png';
-boxTexture.skrillex = '../src/jsm/skrillex.png';
-boxTexture.edmText = '../src/jsm/EDM.png';
+boxTexture.Github = './jsm/githubLogo.png';
+boxTexture.BiliBili = './jsm/BiliBili.png';
+boxTexture.QQ = './jsm/qq.png';
+boxTexture.mail = './jsm/envelope.png';
+boxTexture.reactIcon = './jsm/react.png';
+boxTexture.allSkills = './jsm/allSkills.png';
+boxTexture.lensFlareMain = './jsm/lensflare0.png';
+boxTexture.skrillex = './jsm/skrillex.png';
+boxTexture.edmText = './jsm/EDM.png';
 
 // 砖块材质
-let stoneTexture = '../src/jsm/stone.png';
+let stoneTexture = './jsm/stone.png';
 // 展板木头材质
-let woodTexture = '../src/jsm/woodTexture.jpg';
+let woodTexture = './jsm/woodTexture.jpg';
 
 // 文字图片地址
 let inputText = {};
-inputText.terpSolutionsText = '../src/jsm/TODO.png';
-inputText.activities = '../src/jsm/TODO.png';
-inputText.bagholderBetsText = '../src/jsm/TODO.png';
-inputText.homeSweetHomeText = '../src/jsm/TODO.png';
-inputText.staticPortfolio = '../src/jsm/static-portfolio.png';
-inputText.pcControl = '../src/jsm/pc-control.png'
-inputText.mobileControl = '../src/jsm/mobile-control.png'
-inputText.link = '../src/jsm/link.png'
+inputText.terpSolutionsText = './jsm/TODO.png';
+inputText.activities = './jsm/TODO.png';
+inputText.bagholderBetsText = './jsm/TODO.png';
+inputText.homeSweetHomeText = './jsm/TODO.png';
+inputText.staticPortfolio = './jsm/static-portfolio.png';
+inputText.pcControl = './jsm/pc-control.png'
+inputText.mobileControl = './jsm/mobile-control.png'
+inputText.link = './jsm/link.png'
 
 //SVG
 let SVG = {};
-SVG.reactLogo = '../src/jsm/react-svg.svg';
+SVG.reactLogo = './jsm/react-svg.svg';
 
 // 链接的跳转地址
 let URL = {};
