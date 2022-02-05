@@ -1,44 +1,44 @@
 let billboardTextures = {};
 // 第一块展板图片地址
-billboardTextures.blogTexture = './jsm/TODO.png';
+billboardTextures.blogTexture = '../../3DEntrance/srcjsm/TODO.png';
 // 第二块展板图片地址
 billboardTextures.musicTexture =
-  './jsm/TODO.png';
+  '../../3DEntrance/srcjsm/TODO.png';
 // 第三块展板图片地址
 billboardTextures.fundTexture =
-  './jsm/TODO.png';
+  '../../3DEntrance/srcjsm/TODO.png';
 
 let boxTexture = {};
 // 链接的图标地址
-boxTexture.Github = './jsm/githubLogo.png';
-boxTexture.BiliBili = './jsm/BiliBili.png';
-boxTexture.QQ = './jsm/qq.png';
-boxTexture.mail = './jsm/envelope.png';
-boxTexture.reactIcon = './jsm/react.png';
-boxTexture.allSkills = './jsm/allSkills.png';
-boxTexture.lensFlareMain = './jsm/lensflare0.png';
-boxTexture.skrillex = './jsm/skrillex.png';
-boxTexture.edmText = './jsm/EDM.png';
+boxTexture.Github = '../../3DEntrance/srcjsm/githubLogo.png';
+boxTexture.BiliBili = '../../3DEntrance/srcjsm/BiliBili.png';
+boxTexture.QQ = '../../3DEntrance/srcjsm/qq.png';
+boxTexture.mail = '../../3DEntrance/srcjsm/envelope.png';
+boxTexture.reactIcon = '../../3DEntrance/srcjsm/react.png';
+boxTexture.allSkills = '../../3DEntrance/srcjsm/allSkills.png';
+boxTexture.lensFlareMain = '../../3DEntrance/srcjsm/lensflare0.png';
+boxTexture.skrillex = '../../3DEntrance/srcjsm/skrillex.png';
+boxTexture.edmText = '../../3DEntrance/srcjsm/EDM.png';
 
 // 砖块材质
-let stoneTexture = './jsm/stone.png';
+let stoneTexture = '../../3DEntrance/srcjsm/stone.png';
 // 展板木头材质
-let woodTexture = './jsm/woodTexture.jpg';
+let woodTexture = '../../3DEntrance/srcjsm/woodTexture.jpg';
 
 // 文字图片地址
 let inputText = {};
-inputText.terpSolutionsText = './jsm/TODO.png';
-inputText.activities = './jsm/TODO.png';
-inputText.bagholderBetsText = './jsm/TODO.png';
-inputText.homeSweetHomeText = './jsm/TODO.png';
-inputText.staticPortfolio = './jsm/static-portfolio.png';
-inputText.pcControl = './jsm/pc-control.png'
-inputText.mobileControl = './jsm/mobile-control.png'
-inputText.link = './jsm/link.png'
+inputText.terpSolutionsText = '../../3DEntrance/srcjsm/TODO.png';
+inputText.activities = '../../3DEntrance/srcjsm/TODO.png';
+inputText.bagholderBetsText = '../../3DEntrance/srcjsm/TODO.png';
+inputText.homeSweetHomeText = '../../3DEntrance/srcjsm/TODO.png';
+inputText.staticPortfolio = '../../3DEntrance/srcjsm/static-portfolio.png';
+inputText.pcControl = '../../3DEntrance/srcjsm/pc-control.png'
+inputText.mobileControl = '../../3DEntrance/srcjsm/mobile-control.png'
+inputText.link = '../../3DEntrance/srcjsm/link.png'
 
 //SVG
 let SVG = {};
-SVG.reactLogo = './jsm/react-svg.svg';
+SVG.reactLogo = '../../3DEntrance/srcjsm/react-svg.svg';
 
 // 链接的跳转地址
 let URL = {};
