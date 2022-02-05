@@ -3,9 +3,9 @@
 
 up自己的3d网站也是根据国外大佬改的源码地址：[https://github.com/0xFloyd/Portfolio_2020](https://github.com/0xFloyd/Portfolio_2020)
 
-我自己的源码地址(基于上面有些添加中文注释和一些改变)：[https://github.com/AirHua-byte/AirHua-byte.github.io ](https://github.com/AirHua-byte/AirHua-byte.github.io )
+我自己的源码地址(基于上面有些添加中文注释和一些改变)：[https://github.com/Dearning/3DEntrance ](https://github.com/Dearning/3DEntrance )
 
-## 搭建教程主要面对网站搭建新手
+## 搭建教程主要面对网站搭建新手(转载来源 https://github.com/AirHua-byte/AirHua-byte.github.io)
 
 ## 项目环境
 

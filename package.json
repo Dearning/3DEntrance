@@ -12,7 +12,7 @@
     "heroku-postbuild": "webpack -p"
   },
   "keywords": [],
-  "author": "AirHua-byte",
+  "author": "Dearning",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.4.3",
