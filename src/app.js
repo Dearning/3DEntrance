@@ -341,7 +341,7 @@ Ammo().then((Ammo) => {
     cursorHoverObjects.push(linkBox);
   }
 
-  // 创建你的信息栏 (AirHua Life is loving)
+  // 创建你的信息栏 (Dearning Life is loving)
   function Words(x, y, z) {
     const boxScale = { x: 25, y: 3, z: 2 };
     let quat = { x: 0, y: 0, z: 0, w: 1 };
@@ -362,7 +362,7 @@ Ammo().then((Ammo) => {
     addRigidPhysics(linkBox, boxScale);
   }
 
-  // 'AirHua'
+  // 'Dearning'
   function loadRyanText() {
     var text_loader = new THREE.FontLoader();
 
@@ -376,7 +376,7 @@ Ammo().then((Ammo) => {
         new THREE.MeshPhongMaterial({ color: color }), // side
       ];
 
-      var geometry = new THREE.TextGeometry("AirHua", {
+      var geometry = new THREE.TextGeometry("Dearning", {
         font: font,
         size: 3,
         height: 0.5,
@@ -420,7 +420,7 @@ Ammo().then((Ammo) => {
         new THREE.MeshPhongMaterial({ color: color }), // side
       ];
 
-      var geometry = new THREE.TextGeometry('Life is loving', {
+      var geometry = new THREE.TextGeometry(' testTODO', {
         font: font,
         size: 1.5,
         height: 0.5,
@@ -1064,7 +1064,7 @@ Ammo().then((Ammo) => {
       4,
       1,
       boxTexture.mail,
-      'airhua602@gmail.com',
+      'dylansjc@outlook.com',
       0x000000,
       false
     );

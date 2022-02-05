@@ -1,12 +1,12 @@
 let billboardTextures = {};
 // 第一块展板图片地址
-billboardTextures.blogTexture = '../src/jsm/blog.png';
+billboardTextures.blogTexture = '../src/jsm/TODO.png';
 // 第二块展板图片地址
 billboardTextures.musicTexture =
-  '../src/jsm/music.png';
+  '../src/jsm/TODO.png';
 // 第三块展板图片地址
 billboardTextures.fundTexture =
-  '../src/jsm/fund.png';
+  '../src/jsm/TODO.png';
 
 let boxTexture = {};
 // 链接的图标地址
@@ -27,10 +27,10 @@ let woodTexture = '../src/jsm/woodTexture.jpg';
 
 // 文字图片地址
 let inputText = {};
-inputText.terpSolutionsText = '../src/jsm/terp-solutions-text.png';
-inputText.activities = '../src/jsm/activities_text.png';
-inputText.bagholderBetsText = '../src/jsm/bagholderbets-text.png';
-inputText.homeSweetHomeText = '../src/jsm/home-sweet-home-text.png';
+inputText.terpSolutionsText = '../src/jsm/TODO.png';
+inputText.activities = '../src/jsm/TODO.png';
+inputText.bagholderBetsText = '../src/jsm/TODO.png';
+inputText.homeSweetHomeText = '../src/jsm/TODO.png';
 inputText.staticPortfolio = '../src/jsm/static-portfolio.png';
 inputText.pcControl = '../src/jsm/pc-control.png'
 inputText.mobileControl = '../src/jsm/mobile-control.png'
@@ -43,15 +43,15 @@ SVG.reactLogo = '../src/jsm/react-svg.svg';
 // 链接的跳转地址
 let URL = {};
 URL.blog =
-  'https://huabyte.com';
-URL.ryanfloyd = 'https://huabyte.com';
-URL.fund = 'https://github.com/AirHua-byte/FundSpider';
-URL.gitHub = 'https://github.com/AirHua-byte';
-URL.BiliBili = 'https://space.bilibili.com/450443708';
-URL.email = 'https://airhua602@gmail.com';
+  'https://dearning.cn';
+URL.ryanfloyd = 'https://dearning.cn';
+URL.fund = 'https://github.com/Dearning/3DEntrance';
+URL.gitHub = 'https://github.com/Dearning';
+URL.BiliBili = 'https://space.bilibili.com/568066331';
+URL.email = 'https://dylansjc@outlook.com';
 URL.music = 'https://music.huabyte.com';
 URL.devTo =
-  'http://wpa.qq.com/msgrd?v=3&uin=3301833942&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:3301833942:41';
+  'https://qm.qq.com/cgi-bin/qm/qr?k=R9NJf-CX4BjpWQMSzhDtKnqsP_NrcbpR&noverify=0';
 
 export {
   billboardTextures,
