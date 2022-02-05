@@ -11,7 +11,7 @@ billboardTextures.fundTexture =
 let boxTexture = {};
 // 链接的图标地址
 boxTexture.Github = './3DEntrance/src/jsm/githubLogo.png';
-boxTexture.BiliBili = './3DEntrance/src/jsm/BiliBili.png';
+boxTexture.BiliBili = './3DEntrance/src/jsm/bilibili.png';
 boxTexture.QQ = './3DEntrance/src/jsm/qq.png';
 boxTexture.mail = './3DEntrance/src/jsm/envelope.png';
 boxTexture.reactIcon = './3DEntrance/src/jsm/react.png';
